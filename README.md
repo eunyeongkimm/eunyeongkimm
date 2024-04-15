@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Data%20Analyst%20EYKIM&fontSize=80&&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Data%20Analyst%20EYKIM&desc=Portfolio&fontSize=80&&fontColor=333333)
 Hi there 👋
 <!--
 **eunyeongkimm/eunyeongkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
