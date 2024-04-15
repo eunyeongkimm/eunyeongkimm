@@ -8,8 +8,13 @@
 ### - Tools
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 
-### - Project Category
-[🛒 Commerce](https://github.com/eunyeongkimm/personal_project/tree/main/commerce)
+### - Project 
+[💡Project Outline](https://github.com/eunyeongkimm/personal_project/tree/main/)
+
+
+
+
+
 <!--
 **eunyeongkimm/eunyeongkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
