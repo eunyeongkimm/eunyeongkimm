@@ -1,6 +1,6 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=EunyeongKIM&fontSize=100)
-
+### 
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Eunyeong%20KIM&fontSize=100)
+Hi there 👋
 <!--
 **eunyeongkimm/eunyeongkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
