@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 
 ### - Project 
-[💡Project Outline](https://github.com/eunyeongkimm/personal_project/tree/main/)
+[💡Personal Project Outline](https://github.com/eunyeongkimm/personal_project/tree/main/)
 
 
 
