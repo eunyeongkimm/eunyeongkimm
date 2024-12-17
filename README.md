@@ -3,7 +3,7 @@
 
 
 ### - Skills
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">      <img src="https://img.shields.io/badge/Python-F5CD0E?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/QlikSense-009848?style=flat-square&logo=qlik&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-F5CD0E?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/QlikSense-009848?style=flat-square&logo=qlik&logoColor=white">
 
 ### - Tools
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
